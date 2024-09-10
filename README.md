@@ -6,7 +6,7 @@ Bankist is a responsive banking web app developed as part of my Full JavaScript 
 
 - **Responsive Design**: Seamless user experience across different devices.
 - **User Authentication**: Log in to view your personal account dashboard.
-- **Account Summary**: Real-time balance updates, summary of deposits, withdrawals, and interest earned.
+- **Account Summary**: Real-time balance updates, a summary of deposits, withdrawals, and interest earned.
 - **Money Transfers**: Easily transfer money between users.
 - **Loan Request**: Instant loan approval if deposit conditions are met.
 - **Account Closure**: Users can easily close their accounts.
